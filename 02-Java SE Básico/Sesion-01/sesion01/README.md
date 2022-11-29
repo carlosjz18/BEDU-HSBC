@@ -14,30 +14,48 @@ Contiene:
 ## Evidencias 🗂️
 
 - Ejemplo 1  
-  ![ej1-pomxml](./img/ej1-pomxml.png)
 
-- Ejemplo 2
+  ![ej1-pomxml](./img/ej1-pomxml.png)  
+
+
+- Ejemplo 2  
 
   `> mvn validate`  
+
   ![ej2-mvn-validate](./img/ej2-mvn-validate.png)  
+
   `> mvn compile`  
+
   ![ej2-mvn-compile](./img/ej2-mvn-compile.png)  
+
   `> mvn test`  
+
   ![ej2-mvn-test](./img/ej2-mvn-test.png)  
+
   `> mvn package`  
+
   ![ej2-mvn-package](./img/ej2-mvn-package.png)  
 
+
 - Ejemplo 3  
-  ![ej3-ejecutar jar con maven](./img/ej3-ejecutar-jar-con-maven.png)
+
+  ![ej3-ejecutar jar con maven](./img/ej3-ejecutar-jar-con-maven.png)  
+
 
 - Ejemplo 4  
-  ![ej4-run-ide](./img/ej4-run-ide.png)
+
+  ![ej4-run-ide](./img/ej4-run-ide.png)  
+
 
 - Reto 1  
-  ![reto1](./img/reto1.png)
+
+  ![reto1](./img/reto1.png)  
+
 
 - Reto 2  
-  ![reto2](./img/reto2.png)
+
+  ![reto2](./img/reto2.png)  
+
 
 ## Maven Phases
 
