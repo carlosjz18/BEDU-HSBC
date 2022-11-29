@@ -19,19 +19,16 @@ Contiene:
 - Ejemplo 2
 
   `> mvn validate`
-  ![ej2-mvn validate](./img/ej2-mvn validate.png)  
-
+  ![ej2-mvn-validate](./img/ej2-mvn-validate.png)
   `> mvn compile`
-  ![ej2-mvn compile](./img/ej2-mvn compile.png)  
-
-  `> mvn test`  
-  ![ej2-mvn test](./img/ej2-mvn test.png)  
-
-  `> mvn package`  
-  ![ej2-mvn package](./img/ej2-mvn package.png)  
+  ![ej2-mvn-compile](./img/ej2-mvn-compile.png)
+  `> mvn test`
+  ![ej2-mvn-test](./img/ej2-mvn-test.png)
+  `> mvn package`
+  ![ej2-mvn-package](./img/ej2-mvn package.png)
 
 - Ejemplo 3
-  ![ej3-ejecutar jar con maven](./img/ej3-ejecutar jar con maven.png)
+  ![ej3-ejecutar jar con maven](./img/ej3-ejecutar-jar-con-maven.png)
 
 - Ejemplo 4
   ![ej4-run-ide](./img/ej4-run-ide.png)
