@@ -19,11 +19,13 @@ Contiene:
 - Ejemplo 2
 
   `> mvn validate`
-  ![ej2-mvn validate](./img/ej2-mvn validate.png)
+  ![ej2-mvn validate](./img/ej2-mvn validate.png)<br/>
+
   `> mvn compile`
-  ![ej2-mvn compile](./img/ej2-mvn compile.png)
+  ![ej2-mvn compile](./img/ej2-mvn compile.png)\
   `> mvn test`
-  ![ej2-mvn test](./img/ej2-mvn test.png)
+  ![ej2-mvn test](./img/ej2-mvn test.png)  
+
   `> mvn package`
   ![ej2-mvn package](./img/ej2-mvn package.png)
 
