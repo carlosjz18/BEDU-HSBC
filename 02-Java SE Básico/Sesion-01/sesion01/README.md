@@ -1,4 +1,4 @@
-# Sesión 1 ⚙🛠️
+# Sesión 01 ⚙🛠️
 
 Proyecto en Java con build tool Maven.
 
@@ -10,6 +10,12 @@ Contiene:
 - Ejemplo 4
 - Reto 1
 - Reto 2
+
+## Comandos
+
+`mvn package`  
+
+`java -jar .\target\sesion01-1.0-SNAPSHOT.jar`
 
 ## Evidencias 🗂️
 
