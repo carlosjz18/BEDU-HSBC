@@ -3,6 +3,7 @@
 ## Sesiones
 - Sesión 01: Construcción de proyectos Maven
     - [sesion01](./Sesion-01/sesion01)
+    - [Postwork: Proyecto Sistema de Control de Ingresos y Gastos](https://github.com/carlosjz18/control-ingresos-y-gastos)
 - Sesión 02: Patrones de diseño
 - Sesión 03: Introducción a Spring Boot
 - Sesión 04: Java Beans y la inversión de control (IoC) en Spring Boot
