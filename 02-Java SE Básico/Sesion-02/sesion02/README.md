@@ -40,6 +40,16 @@ BEDU: Developer Engineering
 
   ![postwork-estructurales-decorator](./img/postwork-estructurales-decorator.png)  
 
+- Trabajo en sesión:  
+
+  - Comportamiento - Command - Calculadora  
+
+  ![tra01-comportamiento-command-cal](./img/tra01-comportamiento-command-cal.png)  
+
+  - Creacionales - Builder - Persona  
+
+  ![tra02-creacionales-builder-persona](./img/tra02-creacionales-builder-persona.png)
+
 ## Commands
 
 ### With command `gradle`:
