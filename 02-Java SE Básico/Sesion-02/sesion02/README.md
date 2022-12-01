@@ -14,6 +14,32 @@ BEDU: Developer Engineering
 - Reto 03: Calculadora
 - Postwork: Haladería
 
+## Evidencias 🗂️
+
+- Ejemplo 01: Creacionales - Singleton  
+
+  ![ej01-creacionales-singleton](./img/ej01-creacionales-singleton.png)  
+
+- Ejemplo 02: Estructurales - Adapter - StockMarketAdapter/AnalysisLibrary  
+
+  ![ej02-estructurales-adapter](./img/ej02-estructurales-adapter.png)  
+
+- Ejemplo 03: Comportamiento - Command - TextEditor/SaveCommand  
+
+  ![ej03-comportamiento-command](./img/ej03-comportamiento-command.png)  
+
+- Reto 01: Estructurales - Adapter - MotorComun/MotorElectrico  
+
+  ![reto01-estructurales-adapter](./img/reto01-estructurales-adapter.png)  
+
+- Reto 02: Comportamiento - Command - Add10Command/IncrementCommand/MultiplyBy2Command  
+
+  ![reto02-comportamiento-command](./img/reto02-comportamiento-command.png)  
+
+- Postwork: Estructurales - Decorator - Heladería  
+
+  ![postwork-estructurales-decorator](./img/postwork-estructurales-decorator.png)  
+
 ## Commands
 
 ### With command `gradle`:
