@@ -15,11 +15,11 @@ BEDU: Developer Engineering
 
 ## Evidencias 🗂️
 
-- @GetMapping("/saludo/{nombre}")  
+- `@GetMapping("/saludo/{nombre}")`  
 
   ![endpoint-get-saludo](./img/endpoint-get-saludo.png)  
 
-- @PostMapping("/saludo")  
+- `@PostMapping("/saludo")`  
 
   ![endpoint-post-saludo](./img/endpoint-post-saludo.png)
 
