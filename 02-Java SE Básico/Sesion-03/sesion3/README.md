@@ -1,4 +1,4 @@
-# Sesión 02 ⚙️
+# Sesión 03 ⚙️
 
 BEDU: Developer Engineering
 - Modulo 02: Java SE Básico

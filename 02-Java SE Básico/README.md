@@ -7,6 +7,7 @@
 - Sesión 02: Patrones de diseño
     - [sesion02 (contiene Postwork y ejercicios)](./Sesion-02/sesion02)
 - Sesión 03: Introducción a Spring Boot
+    - [sesion03](./Sesion-03/sesion03)
 - Sesión 04: Java Beans y la inversión de control (IoC) en Spring Boot
 - Sesión 05: Conexión a base de datos con Spring Data JPA
 - Sesión 06: Mensajería de colas con JMS
