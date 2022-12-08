@@ -9,6 +9,8 @@
 - Sesión 03: Introducción a Spring Boot
     - [sesion03](./Sesion-03/sesion03)
 - Sesión 04: Java Beans y la inversión de control (IoC) en Spring Boot
+   - [sesion04](./Sesion-04/sesion04)
+   - [services](./Sesion-04/services)
 - Sesión 05: Conexión a base de datos con Spring Data JPA
 - Sesión 06: Mensajería de colas con JMS
 - Sesión 07: Monitoreo y logs con Log4J y LogBack
