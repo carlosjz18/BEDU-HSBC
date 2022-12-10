@@ -13,7 +13,7 @@
    - [services](./Sesion-04/services)
 - Sesión 05: Conexión a base de datos con Spring Data JPA
    - [sesion05](./Sesion-05/sesion05)
-   - [pokemon](./Sesion-05/pokemon)
+   - [pokemon](./Sesion-05/api-pokemon)
 - Sesión 06: Mensajería de colas con JMS
 - Sesión 07: Monitoreo y logs con Log4J y LogBack
 - Sesión 08: Project Lombok y MapStruct
