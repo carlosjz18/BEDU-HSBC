@@ -1,0 +1,17 @@
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.LoggerApplication] [INFO ] - Starting LoggerApplication using Java 11.0.16.1 on CLAP2104-1739 with PID 4136 (C:\Users\carlos.jaimez\Downloads\Dev\BEDU HSBC\repos\BEDU-HSBC\02-Java SE Básico\Sesion-06\logger\target\classes started by carlos.jaimez in C:\Users\carlos.jaimez\Downloads\Dev\BEDU HSBC\repos\BEDU-HSBC\02-Java SE Básico\Sesion-06\logger)
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.LoggerApplication] [INFO ] - No active profile set, falling back to 1 default profile: "default"
+[14/12/2022 10:10:17 p. m.] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO ] - Tomcat initialized with port(s): 8080 (http)
+[14/12/2022 10:10:17 p. m.] [org.apache.catalina.core.StandardService] [INFO ] - Starting service [Tomcat]
+[14/12/2022 10:10:17 p. m.] [org.apache.catalina.core.StandardEngine] [INFO ] - Starting Servlet engine: [Apache Tomcat/9.0.69]
+[14/12/2022 10:10:17 p. m.] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [INFO ] - Initializing Spring embedded WebApplicationContext
+[14/12/2022 10:10:17 p. m.] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [INFO ] - Root WebApplicationContext: initialization completed in 540 ms
+[14/12/2022 10:10:17 p. m.] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO ] - Tomcat started on port(s): 8080 (http) with context path ''
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.LoggerApplication] [INFO ] - Started LoggerApplication in 1.024 seconds (JVM running for 1.62)
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.Runner] [TRACE] - Hello World
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.Runner] [DEBUG] - App: Demo de Loggers
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.Runner] [INFO ] - Aplicación de Spring Boot inicializada
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.Runner] [WARN ] - El método debe recibir una cadena no vacía
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.Runner] [ERROR] - Hubo un problema critico en la app
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.Primos] [ERROR] - El número no puede ser negavito / num -8
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.Primos] [WARN ] - El número 4 no es primo
+[14/12/2022 10:10:17 p. m.] [mx.com.cj.logger.Primos] [INFO ] - El número 13 si es primo
