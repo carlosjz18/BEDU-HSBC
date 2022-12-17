@@ -20,6 +20,8 @@
 - Sesión 07: Monitoreo y logs con Log4J y LogBack
    - [logger](./Sesion-07/logger)
 - Sesión 08: Project Lombok y MapStruct
+- Sesión 09: Circulo de estudio
+   - [api](./Sesion-09/api)
 
 
 ## Construido con 🛠️
