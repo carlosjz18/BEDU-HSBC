@@ -15,6 +15,8 @@
    - [sesion05](./Sesion-05/sesion05)
    - [pokemon](./Sesion-05/api-pokemon)
 - Sesión 06: Mensajería de colas con JMS
+   - [producer](./Sesion-06/producer)
+   - [consumer](./Sesion-06/consumer)
 - Sesión 07: Monitoreo y logs con Log4J y LogBack
    - [logger](./Sesion-07/logger)
 - Sesión 08: Project Lombok y MapStruct
