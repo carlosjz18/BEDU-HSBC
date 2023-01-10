@@ -1,8 +1,8 @@
 # MÓDULO 3: Java Intermedio 🤖
 
 ## Sesiones
-- Sesión 01: 
-
+- Sesión 01: Patrón MVC con Spring Boot
+    - [sesion01](./Sesion-01/sesion01)
 
 ## Construido con 🛠️
 
