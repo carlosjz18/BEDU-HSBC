@@ -3,6 +3,9 @@
 ## Sesiones
 - Sesión 01: Patrón MVC con Spring Boot
     - [sesion01](./Sesion-01/sesion01)
+- Sesión 02: Spring Data Rest
+    - [ejemplo1](./Sesion-02/ejemplo1)
+    - [ejemplo2](./Sesion-02/ejemplo2)
 
 ## Construido con 🛠️
 
