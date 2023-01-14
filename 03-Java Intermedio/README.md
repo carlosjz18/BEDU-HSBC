@@ -6,6 +6,9 @@
 - Sesión 02: Spring Data Rest
     - [ejemplo1](./Sesion-02/ejemplo1)
     - [ejemplo2](./Sesion-02/ejemplo2)
+- Sesión 03: Spring MVC Validation
+    - [sesion03](./Sesion-03/sesion03)
+
 
 ## Construido con 🛠️
 
