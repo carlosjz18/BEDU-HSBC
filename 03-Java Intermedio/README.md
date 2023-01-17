@@ -8,6 +8,8 @@
     - [ejemplo2](./Sesion-02/ejemplo2)
 - Sesión 03: Spring MVC Validation
     - [sesion03](./Sesion-03/sesion03)
+- Sesión 04: Manejo de errores y negociación de contenido
+    - [sesion04](./Sesion-04/sesion04)
 
 
 ## Construido con 🛠️
