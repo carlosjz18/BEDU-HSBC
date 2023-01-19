@@ -11,8 +11,8 @@
 - Sesión 04: Manejo de errores y negociación de contenido
     - [sesion04](./Sesion-04/sesion04)
 - Sesión 05: Spring Security
-    - [sesion05](./Sesion-05/ejemplo01)
-    - [sesion05](./Sesion-05/ejemplo02)
+    - [ejemplo01](./Sesion-05/ejemplo01)
+    - [ejemplo02](./Sesion-05/ejemplo02)
 
 
 ## Construido con 🛠️
