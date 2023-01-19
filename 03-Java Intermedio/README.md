@@ -10,6 +10,8 @@
     - [sesion03](./Sesion-03/sesion03)
 - Sesión 04: Manejo de errores y negociación de contenido
     - [sesion04](./Sesion-04/sesion04)
+- Sesión 05: Spring Security
+    - [sesion04](./Sesion-05/sesion05)
 
 
 ## Construido con 🛠️
