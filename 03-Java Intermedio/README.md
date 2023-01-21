@@ -13,7 +13,8 @@
 - Sesión 05: Spring Security
     - [ejemplo01](./Sesion-05/ejemplo01)
     - [ejemplo02](./Sesion-05/ejemplo02)
-
+- Sesión 06: Anotaciones y Pruebas Unitarias con JUnit
+    - [ejemplo01](./Sesion-06/ejemplo01)
 
 ## Construido con 🛠️
 
