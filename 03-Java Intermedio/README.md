@@ -15,6 +15,8 @@
     - [ejemplo02](./Sesion-05/ejemplo02)
 - Sesión 06: Anotaciones y Pruebas Unitarias con JUnit
     - [ejemplo01](./Sesion-06/ejemplo01)
+- Sesión 07: Selenium para automatización de pruebas
+    - [sesion07](./Sesion-07/sesion07)
 
 ## Construido con 🛠️
 
