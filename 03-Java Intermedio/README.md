@@ -18,7 +18,7 @@
 - Sesión 07: Selenium para automatización de pruebas
     - [sesion07](./Sesion-07/sesion07)
 - Sesión 08: Despliegue con WebSphere Application Server Liberty
-    - [sesion0](./Sesion-08/sesion08)
+    - [sesion08](./Sesion-08/sesion08)
 
 ## Construido con 🛠️
 
