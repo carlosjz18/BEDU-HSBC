@@ -28,7 +28,8 @@ public class ClienteController {
         cliente.setId(clienteId);
         cliente.setNombre("Cliente");
 
-        return ResponseEntity.ok(cliente);
+        //return ResponseEntity.ok(cliente);
+        return HttpStatus.NOT_FOUND;
     }
 
     @PostMapping

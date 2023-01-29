@@ -19,6 +19,8 @@
     - [sesion07](./Sesion-07/sesion07)
 - Sesión 08: Despliegue con WebSphere Application Server Liberty
     - [sesion08](./Sesion-08/sesion08)
+- Sesión 09: Circulo de Estudio - Proyecto Spring Security JWT
+    - [sesion09](./Sesion-09/sesion09)
 
 ## Construido con 🛠️
 
