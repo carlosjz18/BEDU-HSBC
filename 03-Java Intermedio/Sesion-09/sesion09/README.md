@@ -1,8 +1,8 @@
-# Sesión 08 🤖
+# Sesión 09 🤖
 
 BEDU: Developer Engineering
 - Módulo 03: Java Intermedio
-- Sesión 09: Circulo de Estudio - Proyecto Spring Security JWT
+- Sesión 08: Despliegue con WebSphere Application Server Liberty
 
 ## Construido con 🛠️
 
