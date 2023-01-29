@@ -2,7 +2,7 @@
 
 BEDU: Developer Engineering
 - Módulo 03: Java Intermedio
-- Sesión 08: Despliegue con WebSphere Application Server Liberty
+- Sesión 09: Despliegue con WebSphere Application Server Liberty
 
 ## Construido con 🛠️
 
