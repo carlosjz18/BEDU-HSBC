@@ -1,8 +1,8 @@
-# MÓDULO 4: Fundamentos de Angular 🧑‍💻
+# Sesión 01 🤖
 
-## Sesiones
+BEDU: Developer Engineering
+- Módulo 04: Angular
 - Sesión 01: Introducción a Angular y Typescript
-    - [sesion01](./Sesion-01/sesion01)
 
 ## Construido con 🛠️
 
