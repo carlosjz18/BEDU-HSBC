@@ -2,7 +2,7 @@
 
 ## Sesiones
 - Sesión 01: Introducción a Angular y Typescript
-    - [sesion01](./Sesion-01/sesion01)
+    - [sesion01](./Sesion-01/proyecto_01)
 
 ## Construido con 🛠️
 
