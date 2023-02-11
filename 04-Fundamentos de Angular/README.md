@@ -3,6 +3,8 @@
 ## Sesiones
 - Sesión 01: Introducción a Angular y Typescript
     - [proyecto_01](./Sesion-01/proyecto_01)
+- Sesión 02: Templates, componentes y directivas fundamentales
+    - [proyecto_01](./Sesion-01/proyecto_01)
 
 ## Construido con 🛠️
 
